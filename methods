@@ -1,0 +1,8 @@
+list
+list.append(x), list.insert(i, x), list.remove(x), list.count(x), list.clear()
+dict
+dict.clear(),dict.setdefault(key[, default]),dict.update([other]),dict.pop(key[, default]),dict.get(key[, default])
+set
+set.update(other, ...) ,set.add(elem), set.remove(elem), set.discard(elem), set.clear()
+str
+S.count(str, [start],[end]), S.split(символ), S.replace(шаблон, замена[, maxcount]), S.find(str, [start],[end]), S[i]
